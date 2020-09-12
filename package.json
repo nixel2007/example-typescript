@@ -5,7 +5,7 @@
   "main": "index.js",
   "devDependencies": {
     "chai": "^3.5.0",
-    "codecov": "^1.0.1",
+    "codecov": "^3.7.2",
     "mocha": "^2.5.3",
     "nyc": "^6.4.4",
     "tsd": "^0.6.5",
